@@ -1,6 +1,6 @@
 ### Hello Friends 👋
 
-I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https://silkysys.com , I am passionate about coding, sports, music and art. 
+I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https://silkysys.com) , I am passionate about coding, sports, music and art. 
 - 🔭 I’m currently working on a patented platform and many other intersting projects
 - ⚡ Fun fact: I hate frameworks :zany_face: , I still did not find a framework that fits my needs, hint: it must be written in Golang
 - Another fun fact: Golang is #1 only the C language, Linux and Unix are in the same level, but Go superseeds C cause it has it all, readable, fast, maintainable memory-safe and pretty damn simple
