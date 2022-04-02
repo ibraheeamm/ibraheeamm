@@ -36,13 +36,13 @@ I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https:
 
 
 
-<details>
+<!-- <details>
     <summary>**Warning:** radical opinions, open under your own risk </summary>
     > I am joking here, do not take it personally
 - Javascirpt is like the worst girlfriend I ever had 😂, Typescirpt tries to fix the relationship but you can not fix what is broken 💔😭, at the end its not the Javascirpts fault, I blame the community cause it is thriving with the worst engineering practices ever and the new framework each millisecond kills is not a fun joke anymore 🥱 not forgetting the worst of them all the **undefined** hell 💀, ooh I mean type 🧟‍♀️  
 - please do not mention a framework with an ORM bla, bla, bla, if the framework is gonna code instead of me I "might" think about it good but Github Copilot started that, for web APIs made with the statically typed giants 🏋️‍♀️ bad hackable APIs are made with bad devs I am not blaming here
 </details>
-
+ -->
 ### Contact Info  
 
 hi@ibraheam.dev
