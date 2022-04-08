@@ -12,20 +12,7 @@ I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https:
 - Another fun fact: Golang is #1 only the C language, Linux and Unix are on the same level, but Go superseeds C cause it has it all, readable, fast, maintainable memory-safe and pretty damn simple.
 - I have 3 cats Labwah🐱, Laith🦁 and Ginger🐈
 
-
-### Hall of fame
-- Linux, do I need to explain?
-- Unix, for the great minds behind it
-- My Fifa squad ⚽️
-
-
-
-### Hobbies
-- Football ⚽️
-- Music 🎸 I play on the Guitar and Oud
-- Fifa
-
-
+![Ibraheeamm GitHub stats](https://github-readme-stats.vercel.app/api?username=ibraheeamm&count_private=true&show_icons=true&theme=prussian)
 
 ### How can I help?
 - 💬 Ask me about anything in tech, I dont call myself a fullstack, I am the stack itself 😆 lol, but really you can ask me anything and I will try to help
