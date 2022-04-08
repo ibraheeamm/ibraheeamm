@@ -11,6 +11,10 @@ I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https:
 - ⚡ Fun fact: I hate frameworks :zany_face: , I still did not find a framework that I like, who cares right 🥸. 
 - Another fun fact: Golang is #1 only the C language, Linux and Unix are on the same level, but Go superseeds C cause it has it all, readable, fast, maintainable memory-safe and pretty damn simple.
 - I have 3 cats Labwah🐱, Laith🦁 and Ginger🐈
+- I love Football ⚽, yes the name is Football not Soccer
+- I use the international measure, you know. Celcius, Grams, Kilo, Centemeter and Meters, like normal people lol 
+- Soccer, Inches, Pounds and Miles are brain fuck for me, lol
+- In my free time I read, play Fifa and I don't code, I just build things .
 
 ![Ibraheeamm GitHub stats](https://github-readme-stats.vercel.app/api?username=ibraheeamm&count_private=true&show_icons=true&theme=prussian)
 
