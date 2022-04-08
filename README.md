@@ -18,7 +18,7 @@ I am Ibraheam from Saudi Arabia, I work as (CTO/CIO) at at [SilkySystems](https:
 
 ![Ibraheeamm GitHub stats](https://github-readme-stats.vercel.app/api?username=ibraheeamm&count_private=true&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheeamm&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheeamm&hide=css,html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How can I help?
 - 💬 Ask me about anything in tech, I dont call myself a fullstack, I am the stack itself 😆 lol, but really you can ask me anything and I will try to help
